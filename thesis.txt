@@ -1,0 +1,34 @@
+1 Abstract
+
+2 introduction
+*1st pera and last pera
+
+3 dataset
+*source and link
+
+4 methodlogy
+*ML DL approaches
+
+
+5 result and analysis
+*most effective model results
+
+6 limitations
+
+conclusion future works
+*
+
+
+excel
+link Title status summary
+
+
+paper search engine
+*research gate
+*semantic scholer
+*google scholer
+*papers with code
+*arxiv(Archive)
+
+
+github repository

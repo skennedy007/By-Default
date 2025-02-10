@@ -1,0 +1,6 @@
+learning courses:
+
+python(complete)
+pandas
+intro to ML
+Data cleaning
